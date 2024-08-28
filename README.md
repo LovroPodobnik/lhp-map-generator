@@ -78,3 +78,4 @@ pnpm run test:ui
 ## License
 
 This project is licensed under the MIT License.
+# lhp-map-generator
